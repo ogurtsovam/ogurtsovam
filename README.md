@@ -1,4 +1,4 @@
-# Hey, I am Mariia **Frontend Developer** 👋
+# Hey, I am Mariia👋 **Frontend Developer** 
 
 ---
 
