@@ -33,5 +33,5 @@
 ---
 
 ## 📫 Connections
-- [Telegram](@good_cucumber)
-- [Email](ogurts.maria@gmail.com)
+- [Telegram](https://t.me/good_cucumber)
+- [Email](mailto:ogurts.maria@gmail.com)
