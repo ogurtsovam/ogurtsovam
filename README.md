@@ -27,7 +27,7 @@
 
 | Project | Description | Link |
 |--------|-----------|--------|
-| 📝 **Chat App** | Chat, simplified vertion of Slack | [GitHub]([https://github.com/ogurtsovam/frontend-project-12]) |
+| 📝 **Chat App** | Chat, simplified vertion of Slack | [GitHub](https://github.com/ogurtsovam/frontend-project-12) |
 | 🎨 **Portfolio** | Portfolio Webcite | 
 
 ---
