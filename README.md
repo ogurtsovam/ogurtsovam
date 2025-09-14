@@ -21,7 +21,7 @@
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="20"/> **Chrome DevTools** 
 ---
 
-## 🚀 My projects
+# 🚀 My projects
 
 | Project | Description | Link |
 |--------|-----------|--------|
@@ -30,6 +30,6 @@
 
 ---
 
-## 📫 Connections
+# 📫 Connections
 - [Telegram](https://t.me/good_cucumber)
 - [Email](mailto:ogurts.maria@gmail.com)
