@@ -1,5 +1,7 @@
 # Hey, I am Mariia👋 **Frontend Developer** 
 
+Junior Web Developer with experience building projects using JavaScript, Node.js, and React. Skilled in setting up development environments, working with APIs, asynchronous code, and WebSockets, writing unit tests, and deploying applications. I am a quick learner, highly motivated to grow as a Frontend Developer.))
+
 ---
 
 # 🛠️ My Stack  
