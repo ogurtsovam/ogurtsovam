@@ -28,6 +28,7 @@ Junior Web Developer with experience building projects using JavaScript, Node.js
 | Project | Description | Link |
 |--------|-----------|--------|
 | 📝 **Chat App** | Chat, simplified vertion of Slack | [GitHub](https://github.com/ogurtsovam/frontend-project-12) |
+| 🔍 **Word-Search App** | Utility for finding and styling specific words in data | [GitHub](https://github.com/ogurtsovam/word-search-and-color) |
 | 🎨 **Portfolio** | Portfolio Webcite | 
 
 ---
